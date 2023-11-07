@@ -1,4 +1,4 @@
-# Who-will-survive?- Titanic
+# Who will survive?- Titanic
 
 Group Project
 
